@@ -47,7 +47,8 @@ for i in range(len(x)):
 ```
 
 ## Output:
-<img width="696" height="525" alt="image" src="https://github.com/user-attachments/assets/6dbf7a51-9a86-48c9-a640-49ae73ceb91b" />
+
+<img width="696" height="525" alt="image" src="https://github.com/user-attachments/assets/0e50f869-86d6-4440-aded-489b1232c717" />
 
 
 
